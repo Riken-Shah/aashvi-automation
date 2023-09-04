@@ -1,0 +1,9 @@
+*.png
+*.json
+.DS_store
+profile-2/*
+.idea/*
+MaskRCNN
+masks/
+*.txt
+.env

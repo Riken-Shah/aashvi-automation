@@ -1,0 +1,5 @@
+*/30 * * * * cd /Users/rikenshah/Desktop/Fun/insta-model && source venv/bin/activate && python3 approve_process.py
+*/180 * * * * cd /Users/rikenshah/Desktop/Fun/insta-model && source venv/bin/activate && python3 story_nudge.py
+*/720 * * * * cd /Users/rikenshah/Desktop/Fun/insta-model && source venv/bin/activate && python3 post_on_instagram.py
+*/60 * * * * cd /Users/rikenshah/Desktop/Fun/insta-model && source venv/bin/activate && python3 any_img_to_aashvi.py
+*/30 * * * * cd /Users/rikenshah/Desktop/Fun/insta-model && source venv/bin/activate && python3 automation.py
